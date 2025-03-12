@@ -1,4 +1,3 @@
-```markdown
 # Traductor de EPUB de Inglés a Español
 
 Este proyecto es una herramienta en Python para traducir libros en formato EPUB desde inglés a español, manteniendo la estructura original y omitiendo la traducción de fragmentos de código (etiquetas `<code>` y `<pre>`). El proyecto ofrece dos implementaciones:
@@ -107,4 +106,3 @@ Este proyecto se distribuye bajo la [Licencia MIT](LICENSE).
 ---
 
 ¡Disfruta traduciendo tus libros y facilitando el acceso a contenidos en múltiples idiomas!
-```
